@@ -17,6 +17,6 @@ Key - https://theartsherpa.com/becky-sirmans/blog
 
 
 
-This is a basic adventure game I made for a class assignment. 
+This is a basic adventure game I made for a class assignment, Spring 2022.
 To play, start the file in your terminal. You may need to download Tkinter for it to work, if you do not already have it on your system. 
 type in the input box at the bottom of the window. Explore around the map and figure out how to escape!
