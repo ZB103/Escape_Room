@@ -1,5 +1,7 @@
 Project not allowed to repost, reuse, or editing.
 
+Made Spring 2023.
+
 Credits for images:
 Room 1 - https://gio3dart.blogspot.com/
 Room 2- https://www.artstation.com/joseborges
@@ -15,8 +17,5 @@ Sunset/Ending 4 - https://www.flickr.com/photos/tj_scott/
 Key - https://theartsherpa.com/becky-sirmans/blog
 
 
-
-
-This is a basic adventure game I made for a class assignment, Spring 2023.
 To play, start the file in your terminal. You may need to download Tkinter for it to work, if you do not already have it on your system. 
 type in the input box at the bottom of the window. Explore around the map and figure out how to escape!
